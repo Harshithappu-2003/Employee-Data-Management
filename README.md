@@ -2,6 +2,24 @@
 
 A comprehensive CRUD (Create, Read, Update, Delete) application for managing employee data, built with Next.js 15, TypeScript, and SQLite. Features a modern UI with real-time search, filtering, and complete test coverage.
 
+## 📸 Screenshots
+
+### Landing Page - Hero Section
+![Landing Page Hero Section](screenshots/landing-hero.png)
+*The landing page features a modern hero section with gradient text, call-to-action button, and key statistics highlighting the application's capabilities.*
+
+### Complete CRUD Functionality Overview
+![Complete CRUD Functionality](screenshots/crud-features.png)
+*This section showcases the four core CRUD functionalities: Employee Directory, Search & Filter, Add & Edit, and Delete Records with clear icons and descriptions.*
+
+### Employee Management Dashboard
+![Employee Management Dashboard](screenshots/employee-dashboard.png)
+*The main employee management interface showing statistics cards, search functionality, and a comprehensive employee table with all CRUD operations.*
+
+### Call-to-Action Section
+![Call-to-Action Section](screenshots/cta-section.png)
+*The final section encouraging users to launch the application with a modern glassmorphism design and gradient buttons.*
+
 ## 🚀 Features
 
 - **Complete CRUD Operations**: Create, read, update, and delete employee records
