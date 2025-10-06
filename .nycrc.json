@@ -1,0 +1,15 @@
+{
+  "reporter": ["text", "html", "lcov"],
+  "report-dir": "coverage",
+  "temp-dir": ".nyc_output",
+  "all": true,
+  "include": [
+    "src/**/*.{js,ts,tsx}"
+  ],
+  "exclude": [
+    "src/**/*.test.{js,ts,tsx}",
+    "src/**/*.spec.{js,ts,tsx}",
+    "src/**/__tests__/**",
+    "src/**/test/**"
+  ]
+}
