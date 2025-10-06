@@ -4,21 +4,12 @@ A comprehensive CRUD (Create, Read, Update, Delete) application for managing emp
 
 ## 📸 Screenshots
 
-### Landing Page - Hero Section
-![Landing Page Hero Section](screenshots/landing-hero.png)
-*The landing page features a modern hero section with gradient text, call-to-action button, and key statistics highlighting the application's capabilities.*
+<img width="1918" height="858" alt="Screenshot 2025-10-06 163249" src="https://github.com/user-attachments/assets/61fa4f77-fa83-4a48-bea3-a19d22643c9a" />
+<img width="1919" height="855" alt="Screenshot 2025-10-06 163258" src="https://github.com/user-attachments/assets/9ed195f9-b65e-4a68-be1c-e86eaaeee25d" />
+<img width="1917" height="840" alt="Screenshot 2025-10-06 163306" src="https://github.com/user-attachments/assets/0cc263ea-532f-44da-8417-9ca044817980" />
+<img width="1914" height="955" alt="Screenshot 2025-10-06 163238" src="https://github.com/user-attachments/assets/4bc78e0c-e401-4048-ae8b-8c36d7e52dc2" />
 
-### Complete CRUD Functionality Overview
-![Complete CRUD Functionality](screenshots/crud-features.png)
-*This section showcases the four core CRUD functionalities: Employee Directory, Search & Filter, Add & Edit, and Delete Records with clear icons and descriptions.*
 
-### Employee Management Dashboard
-![Employee Management Dashboard](screenshots/employee-dashboard.png)
-*The main employee management interface showing statistics cards, search functionality, and a comprehensive employee table with all CRUD operations.*
-
-### Call-to-Action Section
-![Call-to-Action Section](screenshots/cta-section.png)
-*The final section encouraging users to launch the application with a modern glassmorphism design and gradient buttons.*
 
 ## 🚀 Features
 
